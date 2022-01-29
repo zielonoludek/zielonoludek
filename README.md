@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zielonoludek
-- 👀 I’m interested in programming and games
-- 🌱 I’m currently learning c++ 
+- 👀 I’m interested in programming and game development
+- 🌱 I’m currently learning c++ and python
 
 <!---
 zielonoludek/zielonoludek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
